@@ -26,7 +26,6 @@ Além disso, também foi realizado um modelo de identificação de espécies de 
 
 Após clonar o repositório, rodar a classe _Main_ do projeto em sua IDE de preferência ou rodar o _.jar_ compilado com o _maven_ pelo terminal. O deployment principal está sendo feito pelo Deployment Center do Microsoft Azure, direto deste repositório do GitHub.
 
-## Diagramas
+## Diagrama Relacional
 
-**Diagrama Relacional:**  
 ![Diagrama Relacional](/assets/images/relacional.jpg)
