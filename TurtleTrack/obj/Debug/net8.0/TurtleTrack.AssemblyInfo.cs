@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurtleTrack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e60e3cd06faca6015d095120978f98491ffc2ccb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurtleTrack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurtleTrack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

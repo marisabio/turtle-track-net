@@ -723,3 +723,4 @@ C:/Users/Carlos/source/repos/TurtleTrack/TurtleTrack/obj/Debug/net8.0/ref/Turtle
 /home/mari/RiderProjects/TurtleTrack/TurtleTrack/obj/Debug/net8.0/TurtleTrack.pdb
 /home/mari/RiderProjects/TurtleTrack/TurtleTrack/obj/Debug/net8.0/TurtleTrack.genruntimeconfig.cache
 /home/mari/RiderProjects/TurtleTrack/TurtleTrack/obj/Debug/net8.0/ref/TurtleTrack.dll
+/home/mari/RiderProjects/TurtleTrack/TurtleTrack/obj/Debug/net8.0/TurtleTrack.sourcelink.json
