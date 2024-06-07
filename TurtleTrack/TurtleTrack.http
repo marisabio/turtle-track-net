@@ -1,0 +1,6 @@
+@TurtleTrack_HostAddress = http://localhost:5071
+
+GET {{TurtleTrack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
