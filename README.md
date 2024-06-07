@@ -26,6 +26,63 @@ Além disso, também foi realizado um modelo de identificação de espécies de 
 
 Após clonar o repositório, rodar o projeto .NET em sua IDE de preferência ou rodar o .exe para *deployment*.
 
+## Endpoints
+
+-- GET --
+
+- http://localhost:5071/api/Usuario
+
+- http://localhost:5071/api/Usuario/{login}
+
+- http://localhost:5071/api/RegiaoMonitorada
+
+- http://localhost:5071/api/RegiaoMonitorada/{id}
+
+- http://localhost:5071/api/RegistroIncidente
+
+- http://localhost:5071/api/RegistroIncidente/{id}
+
+-- POST --
+
+- http://localhost:5071/api/Usuario
+
+    {
+    "login": "___",
+    "nome": "___",
+    "email": "___@___.___",
+    "senha": "___"
+    }
+
+- http://localhost:5071/api/RegiaoMonitorada
+
+    {
+    "regiao": "___",
+    "praia": "___",
+    "qntd_ninhos": "___",
+    "qntd_ovos": "___",
+    "riscos": "___",
+    "especie": "___",
+    "usuario_login": "___"
+    }
+
+- http://localhost:5071/api/RegistroIncidente
+
+    {
+    "data": "___",
+    "especie": "___",
+    "descricao": "___",
+    "usuario_login": "___",
+    "regiao_monitorada_id": "___",
+    }
+
+-- DELETE --
+
+- http://localhost:5071/api/Usuario/{login}
+
+- http://localhost:5071/api/RegiaoMonitorada/{id}
+
+- http://localhost:5071/api/RegistroIncidente/{id}
+
 ## Diagrama Relacional
 
 ![Diagrama Relacional](/assets/images/relacional.jpg)
